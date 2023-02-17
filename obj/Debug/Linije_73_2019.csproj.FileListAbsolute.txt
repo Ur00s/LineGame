@@ -1,0 +1,16 @@
+C:\Users\Uros\Desktop\Linije_73_2019\bin\Debug\Linije_73_2019.exe.config
+C:\Users\Uros\Desktop\Linije_73_2019\bin\Debug\Linije_73_2019.exe
+C:\Users\Uros\Desktop\Linije_73_2019\bin\Debug\Linije_73_2019.pdb
+C:\Users\Uros\Desktop\Linije_73_2019\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Uros\Desktop\Linije_73_2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.csproj.AssemblyReference.cache
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.MainGame.resources
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.Properties.Resources.resources
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.Rezultati.resources
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.StartForm.resources
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.csproj.GenerateResource.cache
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.csproj.CopyComplete
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.exe
+C:\Users\Uros\Desktop\Linije_73_2019\obj\Debug\Linije_73_2019.pdb
